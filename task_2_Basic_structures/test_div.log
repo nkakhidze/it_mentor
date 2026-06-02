@@ -1,0 +1,11 @@
+test_div 2026-06-02 19:11:38,215 INFO Testing the custom logger for module test_div...
+test_div 2026-06-02 19:11:38,215 INFO x/y successful with result: 0.4.
+test_div 2026-06-02 19:11:38,215 INFO x/y successful with result: 0.42857142857142855.
+test_div 2026-06-02 19:11:38,215 INFO x/y successful with result: 0.5.
+test_div 2026-06-02 19:11:38,215 ERROR ZeroDivisionError
+Traceback (most recent call last):
+  File "/Users/nkakhidze/PycharmProjects/it_mentor/task_2_Basic_structures/test_div.py", line 19, in test_division
+    x/y
+    ~^~
+ZeroDivisionError: division by zero
+test_div 2026-06-02 19:11:38,216 INFO x/y successful with result: 10.0.
